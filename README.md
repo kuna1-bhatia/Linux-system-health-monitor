@@ -22,6 +22,13 @@ This project demonstrates practical Linux system monitoring, Python automation, 
 - Python 3
 - psutil (system monitoring library)
 - Linux OS
+linux-system-health-monitor/
+├── monitor.py
+├── requirements.txt
+├── logs/
+│   └── system.log
+├── README.md
+└── .gitignore
 
 ---
 
