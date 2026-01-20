@@ -38,6 +38,8 @@ python monitor.py
 📝 Sample Log Output
 2026-01-20 14:45:10 | CPU: 22% | RAM: 48% | DISK: 61%
 
+---
+
 📌 Use Cases
 
 • Linux system monitoring
